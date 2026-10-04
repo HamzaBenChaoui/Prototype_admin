@@ -34,4 +34,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/prototype-admin:latest
+          tags: ghcr.io/hamzabenchaoui/prototype-admin:latest
